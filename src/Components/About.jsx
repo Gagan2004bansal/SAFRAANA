@@ -1,20 +1,5 @@
 import React, { useState } from "react";
-import {
-  Award,
-  Globe,
-  TrendingUp,
-  Users,
-  Target,
-  Briefcase,
-  GraduationCap,
-  Quote,
-  Mail,
-  Linkedin,
-  MapPin,
-  MessageSquare,
-  Lightbulb,
-  Rocket,
-} from "lucide-react";
+import { Award, Users, Quote, Mail, Linkedin, MapPin, Lightbulb, Rocket } from "lucide-react";
 import { motion } from "framer-motion";
 import Gagan from "../assets/mine.jpeg";
 
